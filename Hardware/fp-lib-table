@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "custom-footprint")(type "KiCad")(uri "/Users/Ncippy/Beacon/Beacon AC + ESP CAM  V1.5_with RTC_LAN PINGGIR lokal/KiCAD Lib/custom-footprint.pretty")(options "")(descr ""))
+  (lib (name "custom-footprint")(type "KiCad")(uri "${KIPRJMOD}/KiCAD Lib/custom-footprint.pretty")(options "")(descr ""))
 )

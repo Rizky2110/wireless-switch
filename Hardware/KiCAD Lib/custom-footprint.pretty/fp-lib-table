@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "custom-footprint")(type "KiCad")(uri "D:/KERJA_Interads/schematic-IBreakerV2/IBreakerV2/KiCAD Lib/custom-footprint")(options "")(descr ""))
+)

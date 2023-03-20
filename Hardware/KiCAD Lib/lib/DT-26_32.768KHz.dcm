@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DT-26_32.768KHz
+D Radial Cylinder Crystals 32.768KHz +/-20ppm Radial,2x6mm RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/KDS-Daishinku-KDS-32-768KHz-12-5PF-20ppm_C93229.pdf
+$ENDCMP
+#
+#End Doc Library
